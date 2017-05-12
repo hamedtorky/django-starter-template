@@ -210,24 +210,28 @@ let Header = React.createClass({
         <h3>Add the (.grid-divider) className to any row to separate grid columns with equal height lines.</h3>
     </div>
     <div className="row grid-divider">
+    
     <div className="col-sm-4">
       <div className="col-padding">
         <h3>Column 1</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt rerum.</p>
       </div>
     </div>
+
     <div className="col-sm-4">
       <div className="col-padding">
         <h3>Column 2</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate placeat suscipit maxime tenetur officiis asperiores quae molestias fugiat praesentium dolorum.</p>
       </div>
     </div>
+    
     <div className="col-sm-4">
       <div className="col-padding">
         <h3>Column 3</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta.</p>
       </div>
     </div>
+    
     </div>
 
 </div>
