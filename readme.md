@@ -2,6 +2,9 @@
 
 An easy to use project template for Django 1.10 that follows best practices.
 
+
+![alt text](https://preview.ibb.co/iFz4Fk/screencapture_localhost_8000_1494582828037.png)
+
 ## Features ##
 
 - Compatible with python 2.7 and 3.4
