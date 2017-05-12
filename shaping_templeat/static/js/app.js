@@ -124,9 +124,7 @@ let Slaider = React.createClass({
                 $('.item2 h2').animateCss('swing');
                 $('.item2 p').animateCss('fadeIn');
                 
-                $('.item3 img').animateCss('fadeInLeft');
-                $('.item3 h2').animateCss('fadeInDown');
-                $('.item3 p').animateCss('fadeIn');
+
             });
         });
 
@@ -139,7 +137,6 @@ let Slaider = React.createClass({
                 <ol className="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" className="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
                  </ol>
 
                 <div className="carousel-inner">
@@ -177,22 +174,7 @@ let Slaider = React.createClass({
                     </div>
 
 
-                    <div className="item item3">
-                        <div className="fill" >
-                            <div className="inner-content">
-                                <div className="carousel-img">
-                                    <img src="http://cdn.homedit.com/wp-content/uploads/2011/08/137CLUB2ST.png" 
-                                    alt="white-sofa" className="img img-responsive" />
-                                </div>
-                                <div className="carousel-desc">
 
-                                    <h2>Vintage Style Sofa</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit ipsum, scelerisque non semper eu, aliquet vel odio. Sed auctor id purus nec tristique. Donec euismod, urna vel dapibus tristique, dolor arcu ultrices lectus, nec pulvinar est turpis sit amet felis. Duis interdum purus quam, vitae cursus erat ornare at. Donec congue mi a ipsum tincidunt, imperdiet vehicula odio rutrum. Nam porta vulputate magna, id pretium lectus iaculis eu. Ut ut viverra libero.</p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
                 </div>
             </div>
