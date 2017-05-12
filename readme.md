@@ -9,6 +9,7 @@ An easy to use project template for Django 1.10 that follows best practices.
 - [Django debug toolbar](http://django-debug-toolbar.readthedocs.org/) enabled for superusers.
 - [Argon2](https://docs.djangoproject.com/en/1.10/topics/auth/passwords/#using-argon2-with-django) to hash the passwords
 - A [fabfile](http://www.fabfile.org/) to ease the deployment.
+- use React
 
 ## Quickstart ##
 
